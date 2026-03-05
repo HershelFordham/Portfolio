@@ -15,10 +15,12 @@ body {
   height:320px;
   background-color:#23395d;
   border-radius:6px;
+  margins: 25px;
 }
 .skillbox {
   background-color: grey;
   padding: 2px;
   border-radius: 6px;
   display: inline-block;
+  margins: 35px;
 }
