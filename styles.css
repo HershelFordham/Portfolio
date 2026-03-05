@@ -19,7 +19,6 @@ body {
 }
 .skillbox {
   background-color: grey;
-  padding: 2px;
   border-radius: 6px;
   display: inline-block;
 }
