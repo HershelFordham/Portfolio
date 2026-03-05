@@ -1,2 +1,2 @@
-Body {background-color:black};
-.comicbox {width: 50%, color:grey};
+Body {background-color:#203354};
+.comicbox, .foreignifybox, .project3, .project4 {width: 50%, height:100, color:#203395d};
