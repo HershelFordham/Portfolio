@@ -1,6 +1,12 @@
 body {
   background-color:#203354
 }
+section{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap:20px;
+  padding:20px;
+}
 .comicbox, .foreignifybox, .project3, .project4 {
   width: 50%;
   height:100px;
