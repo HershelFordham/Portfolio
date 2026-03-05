@@ -8,7 +8,6 @@ section{
   padding:20px;
 }
 .comicbox, .foreignifybox, .project3, .project4 {
-  width: 50%;
-  height:100px;
+  height:320px;
   background-color:#23395d
 }
